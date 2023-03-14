@@ -10,5 +10,6 @@ public class test {
         System.out.println("hello");
         System.out.println("hello 222");
         System.out.println("hello 4444");
+        System.out.println("master 5555");
     }
 }
