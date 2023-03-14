@@ -13,5 +13,6 @@ public class test {
         System.out.println("master 5555");
         System.out.println("hot 5555");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
